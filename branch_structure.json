@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "uiux/a11y-issue-drilldown",
+    "uiux/settings-developer-tab"
+  ],
+  "parent": {
+    "main": null,
+    "uiux/a11y-issue-drilldown": "main",
+    "uiux/settings-developer-tab": "main"
+  },
+  "order": [
+    "main",
+    "uiux/a11y-issue-drilldown",
+    "uiux/settings-developer-tab"
+  ]
+}
